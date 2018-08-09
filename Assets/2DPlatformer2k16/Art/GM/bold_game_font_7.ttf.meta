@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ef77add8db00da64b84f05c4dc57d76b
+timeCreated: 1528211018
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bold Game Font 7
+  fontNames:
+  - Bold Game Font 7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

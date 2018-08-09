@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2DPlatformer2k16/Levels/Title Menu.unity
+  isLoaded: 1
+  isActive: 1
